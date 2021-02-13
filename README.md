@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity , High Performance Computing , Networking , Game Programming , AI.
 - 🌱 I’m currently learning DevNet
 - 💞️ I’m looking to collaborate in game projects / network planning & operation
-- 📫 You can reach me via frozmorn@gmail.com
+- 📫 You can reach me trough my e-mail frozmorn@gmail.com
 
 <!---
 frozmorn/frozmorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
